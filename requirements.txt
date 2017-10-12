@@ -1,0 +1,11 @@
+ipython
+nose
+testpath
+pandoc
+nose
+tornado
+jinja2
+sphinx
+pyzmq
+matplotlib
+pyzmq
