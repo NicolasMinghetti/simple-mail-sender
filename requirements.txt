@@ -9,3 +9,4 @@ sphinx
 pyzmq
 matplotlib
 pyzmq
+jupyter
