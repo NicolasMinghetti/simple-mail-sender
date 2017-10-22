@@ -1,0 +1,5 @@
+address = ""
+volunteerTeamName = ""
+mail = ""
+bankCheckName = ""
+bankCheckAddress = ""
